@@ -1,5 +1,5 @@
 function goodFunction () {
-    console.log("Igenis, édes Gazdám!")
+    console.log("Igenis, édes Gazdám!");
 }
 
-goodFunction()
+goodFunction();
